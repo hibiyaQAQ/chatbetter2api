@@ -2,6 +2,7 @@ fastapi==0.103.1
 uvicorn==0.23.2
 sqlalchemy==2.0.20
 pymysql==1.1.0
+cryptography
 pydantic==2.3.0
 python-dotenv==1.0.0
 pyjwt==2.8.0 
